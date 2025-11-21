@@ -15,49 +15,60 @@ const HeaderMenu = () => {
       </button>
 
       {isOpen && (
-        <div
-          className="fixed inset-0 bg-black/40 z-40"
-          onClick={() => setIsOpen(false)}
-        />
-      )}
-      <div
-        className={`fixed right-0 top-0 h-full w-80 bg-white shadow-xl p-4 z-50 
+        <>
+          <div
+            className="fixed inset-0 bg-black/40 z-40"
+            onClick={() => setIsOpen(false)}
+          />
+          <div
+            className={`fixed right-0 top-0 h-full w-80 bg-white shadow-xl p-4 z-50 
         transition-transform duration-300
         ${isOpen ? "translate-x-0" : "translate-x-full"}`}
-      >
-        <button
-          onClick={() => setIsOpen(false)}
-          className="text-xl text-gray-600 absolute right-4 top-4 cursor-pointer"
-        >
-          <IoClose />
-        </button>
-        <div className="mt-10 p-4 w-full flex flex-col gap-6">
-          <NavLink
-            to="/"
-            className={({ isActive }) =>
-              ` hover:text-[#07484a] ${isActive && "border-b-2 text-[#07484a]"}`
-            }
           >
-            Using Intersection Observer
-          </NavLink>
-          <NavLink
-            to={"/offset-scroll"}
-            className={({ isActive }) =>
-              ` hover:text-[#07484a] ${isActive && "border-b-2 text-[#07484a]"}`
-            }
-          >
-            Using Offset And Height
-          </NavLink>
-          <NavLink
-            to={"/infinite-scroll-component"}
-            className={({ isActive }) =>
-              ` hover:text-[#07484a] ${isActive && "border-b-2 text-[#07484a]"}`
-            }
-          >
-            Infinite Scroll Component
-          </NavLink>
-        </div>
-      </div>
+            <button
+              onClick={() => setIsOpen(false)}
+              className="text-xl text-gray-600 absolute right-4 top-4 cursor-pointer"
+            >
+              <IoClose />
+            </button>
+            <div className="mt-10 p-4 w-full flex flex-col gap-6">
+              <NavLink
+                to="/"
+                className={({ isActive }) =>
+                  ` hover:text-[#07484a] ${
+                    isActive && "border-b-2 text-[#07484a]"
+                  }`
+                }
+                onClick={() => setIsOpen(false)}
+              >
+                Using Intersection Observer
+              </NavLink>
+              <NavLink
+                to={"/offset-scroll"}
+                className={({ isActive }) =>
+                  ` hover:text-[#07484a] ${
+                    isActive && "border-b-2 text-[#07484a]"
+                  }`
+                }
+                onClick={() => setIsOpen(false)}
+              >
+                Using Offset And Height
+              </NavLink>
+              <NavLink
+                to={"/infinite-scroll-component"}
+                className={({ isActive }) =>
+                  ` hover:text-[#07484a] ${
+                    isActive && "border-b-2 text-[#07484a]"
+                  }`
+                }
+                onClick={() => setIsOpen(false)}
+              >
+                Infinite Scroll Component
+              </NavLink>
+            </div>
+          </div>
+        </>
+      )}
     </>
   );
 };
