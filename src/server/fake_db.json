@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 1,
+    "title": "Limited Necklace #1",
+    "price": 125.37,
+    "description": "Limited Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 2,
+    "title": "Premium Coat #2",
+    "price": 240,
+    "description": "Premium Coat — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+  },
+  {
+    "id": 3,
+    "title": "Limited Dress #3",
+    "price": 338.92,
+    "description": "Limited Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png"
+  },
+  {
+    "id": 4,
+    "title": "Ultra Hoodie #4",
+    "price": 225.23,
+    "description": "Ultra Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png"
+  },
+  {
+    "id": 5,
+    "title": "Vintage Router #5",
+    "price": 119.67,
+    "description": "Vintage Router — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 6,
+    "title": "Vintage Necklace #6",
+    "price": 189.29,
+    "description": "Vintage Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 7,
+    "title": "Vintage Pendant #7",
+    "price": 24.73,
+    "description": "Vintage Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 8,
+    "title": "Limited Blouse #8",
+    "price": 278.04,
+    "description": "Limited Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 9,
+    "title": "Classic Dress #9",
+    "price": 48.52,
+    "description": "Classic Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+  },
+  {
+    "id": 10,
+    "title": "Sleek Monitor #10",
+    "price": 261.63,
+    "description": "Sleek Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png"
+  },
+  {
+    "id": 11,
+    "title": "Classic Necklace #11",
+    "price": 340.93,
+    "description": "Classic Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 12,
+    "title": "Pro Charger #12",
+    "price": 225.8,
+    "description": "Pro Charger — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 13,
+    "title": "Premium Blouse #13",
+    "price": 58.79,
+    "description": "Premium Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 14,
+    "title": "Premium Pendant #14",
+    "price": 282.95,
+    "description": "Premium Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 15,
+    "title": "Vintage Skirt #15",
+    "price": 208.96,
+    "description": "Vintage Skirt — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 16,
+    "title": "Classic Ring #16",
+    "price": 90.34,
+    "description": "Classic Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 17,
+    "title": "Sport Jeans #17",
+    "price": 187.08,
+    "description": "Sport Jeans — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 18,
+    "title": "Limited T-Shirt #18",
+    "price": 146.97,
+    "description": "Limited T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 19,
+    "title": "Premium Blouse #19",
+    "price": 88.02,
+    "description": "Premium Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 20,
+    "title": "Classic Ring #20",
+    "price": 116.59,
+    "description": "Classic Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 21,
+    "title": "Vintage Shirt #21",
+    "price": 19.53,
+    "description": "Vintage Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 22,
+    "title": "Modern Jeans #22",
+    "price": 395.96,
+    "description": "Modern Jeans — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 23,
+    "title": "Pro Ring #23",
+    "price": 133.97,
+    "description": "Pro Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 24,
+    "title": "Eco Blouse #24",
+    "price": 154.53,
+    "description": "Eco Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 25,
+    "title": "Classic Coat #25",
+    "price": 238.01,
+    "description": "Classic Coat — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 26,
+    "title": "Sport Top #26",
+    "price": 159.87,
+    "description": "Sport Top — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 27,
+    "title": "Sleek Hoodie #27",
+    "price": 34.09,
+    "description": "Sleek Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 28,
+    "title": "Premium Earrings #28",
+    "price": 65.9,
+    "description": "Premium Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 29,
+    "title": "Classic Tablet #29",
+    "price": 38.98,
+    "description": "Classic Tablet — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 30,
+    "title": "Limited Earrings #30",
+    "price": 177.69,
+    "description": "Limited Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 31,
+    "title": "Classic Necklace #31",
+    "price": 283.21,
+    "description": "Classic Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 32,
+    "title": "Vintage Earrings #32",
+    "price": 359.53,
+    "description": "Vintage Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 33,
+    "title": "Vintage T-Shirt #33",
+    "price": 216.01,
+    "description": "Vintage T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 34,
+    "title": "Modern Tablet #34",
+    "price": 174.45,
+    "description": "Modern Tablet — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+  },
+  {
+    "id": 35,
+    "title": "Eco Ring #35",
+    "price": 263.39,
+    "description": "Eco Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 36,
+    "title": "Sport Skirt #36",
+    "price": 193.07,
+    "description": "Sport Skirt — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 37,
+    "title": "Limited Mouse #37",
+    "price": 365.68,
+    "description": "Limited Mouse — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 38,
+    "title": "Vintage Bracelet #38",
+    "price": 396.14,
+    "description": "Vintage Bracelet — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 39,
+    "title": "Modern Jacket #39",
+    "price": 116.9,
+    "description": "Modern Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 40,
+    "title": "Limited Dress #40",
+    "price": 128.37,
+    "description": "Limited Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 41,
+    "title": "Pro Keyboard #41",
+    "price": 175.1,
+    "description": "Pro Keyboard — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 42,
+    "title": "Modern Camera #42",
+    "price": 271.39,
+    "description": "Modern Camera — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 43,
+    "title": "Classic Bracelet #43",
+    "price": 362.36,
+    "description": "Classic Bracelet — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 44,
+    "title": "Pro Jacket #44",
+    "price": 158.29,
+    "description": "Pro Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 45,
+    "title": "Limited Monitor #45",
+    "price": 209.92,
+    "description": "Limited Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 46,
+    "title": "Premium Phone #46",
+    "price": 14.38,
+    "description": "Premium Phone — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 47,
+    "title": "Limited Ring #47",
+    "price": 140.16,
+    "description": "Limited Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 48,
+    "title": "Sport Monitor #48",
+    "price": 101.45,
+    "description": "Sport Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+  },
+  {
+    "id": 49,
+    "title": "Sport Monitor #49",
+    "price": 135,
+    "description": "Sport Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 50,
+    "title": "Ultra Earrings #50",
+    "price": 375.44,
+    "description": "Ultra Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+  },
+  {
+    "id": 51,
+    "title": "Classic Blouse #51",
+    "price": 321.05,
+    "description": "Classic Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+  },
+  {
+    "id": 52,
+    "title": "Sport Dress #52",
+    "price": 31.15,
+    "description": "Sport Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 53,
+    "title": "Limited Top #53",
+    "price": 355.62,
+    "description": "Limited Top — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 54,
+    "title": "Sleek Monitor #54",
+    "price": 278.02,
+    "description": "Sleek Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+  },
+  {
+    "id": 55,
+    "title": "Sleek Dress #55",
+    "price": 214.56,
+    "description": "Sleek Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 56,
+    "title": "Eco Shirt #56",
+    "price": 309.74,
+    "description": "Eco Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 57,
+    "title": "Premium Tablet #57",
+    "price": 153.27,
+    "description": "Premium Tablet — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+  },
+  {
+    "id": 58,
+    "title": "Premium Earrings #58",
+    "price": 75.76,
+    "description": "Premium Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 59,
+    "title": "Eco Phone #59",
+    "price": 237.87,
+    "description": "Eco Phone — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 60,
+    "title": "Classic Shirt #60",
+    "price": 227.01,
+    "description": "Classic Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 61,
+    "title": "Pro Jacket #61",
+    "price": 173.6,
+    "description": "Pro Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 62,
+    "title": "Sport Jacket #62",
+    "price": 129.46,
+    "description": "Sport Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 63,
+    "title": "Vintage Hoodie #63",
+    "price": 77.44,
+    "description": "Vintage Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 64,
+    "title": "Modern Necklace #64",
+    "price": 299.12,
+    "description": "Modern Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 65,
+    "title": "Sport Pendant #65",
+    "price": 360.21,
+    "description": "Sport Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 66,
+    "title": "Sport Ring #66",
+    "price": 40.03,
+    "description": "Sport Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 67,
+    "title": "Ultra Jeans #67",
+    "price": 244.55,
+    "description": "Ultra Jeans — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 68,
+    "title": "Classic Top #68",
+    "price": 187.16,
+    "description": "Classic Top — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 69,
+    "title": "Modern Necklace #69",
+    "price": 312.12,
+    "description": "Modern Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 70,
+    "title": "Sleek Necklace #70",
+    "price": 188.52,
+    "description": "Sleek Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 71,
+    "title": "Sleek Jeans #71",
+    "price": 97.37,
+    "description": "Sleek Jeans — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 72,
+    "title": "Classic Ring #72",
+    "price": 260.94,
+    "description": "Classic Ring — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 73,
+    "title": "Vintage Tablet #73",
+    "price": 322.59,
+    "description": "Vintage Tablet — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 74,
+    "title": "Modern Hoodie #74",
+    "price": 335.41,
+    "description": "Modern Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 75,
+    "title": "Sport Skirt #75",
+    "price": 86.04,
+    "description": "Sport Skirt — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 76,
+    "title": "Modern Skirt #76",
+    "price": 174.51,
+    "description": "Modern Skirt — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 77,
+    "title": "Limited Pendant #77",
+    "price": 188.61,
+    "description": "Limited Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+  },
+  {
+    "id": 78,
+    "title": "Premium Phone #78",
+    "price": 71.39,
+    "description": "Premium Phone — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 79,
+    "title": "Sleek Headphones #79",
+    "price": 216.61,
+    "description": "Sleek Headphones — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 80,
+    "title": "Sleek Monitor #80",
+    "price": 29.21,
+    "description": "Sleek Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 81,
+    "title": "Premium Pendant #81",
+    "price": 103.88,
+    "description": "Premium Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 82,
+    "title": "Classic Charger #82",
+    "price": 224.59,
+    "description": "Classic Charger — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 83,
+    "title": "Ultra Monitor #83",
+    "price": 179.15,
+    "description": "Ultra Monitor — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+  },
+  {
+    "id": 84,
+    "title": "Ultra Keyboard #84",
+    "price": 146.61,
+    "description": "Ultra Keyboard — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 85,
+    "title": "Sport Shirt #85",
+    "price": 48.86,
+    "description": "Sport Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+  },
+  {
+    "id": 86,
+    "title": "Classic Earrings #86",
+    "price": 200.5,
+    "description": "Classic Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 87,
+    "title": "Premium Shirt #87",
+    "price": 288.81,
+    "description": "Premium Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 88,
+    "title": "Sleek Jacket #88",
+    "price": 397.75,
+    "description": "Sleek Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+  },
+  {
+    "id": 89,
+    "title": "Ultra Bracelet #89",
+    "price": 299.94,
+    "description": "Ultra Bracelet — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+  },
+  {
+    "id": 90,
+    "title": "Limited Necklace #90",
+    "price": 86.08,
+    "description": "Limited Necklace — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 91,
+    "title": "Limited Mouse #91",
+    "price": 337.62,
+    "description": "Limited Mouse — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png"
+  },
+  {
+    "id": 92,
+    "title": "Ultra T-Shirt #92",
+    "price": 347.2,
+    "description": "Ultra T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 93,
+    "title": "Vintage Earrings #93",
+    "price": 234.27,
+    "description": "Vintage Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 94,
+    "title": "Premium Keyboard #94",
+    "price": 260.56,
+    "description": "Premium Keyboard — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 95,
+    "title": "Vintage Router #95",
+    "price": 170.18,
+    "description": "Vintage Router — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 96,
+    "title": "Modern T-Shirt #96",
+    "price": 62.39,
+    "description": "Modern T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 97,
+    "title": "Vintage Charger #97",
+    "price": 63.13,
+    "description": "Vintage Charger — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 98,
+    "title": "Classic Phone #98",
+    "price": 33.44,
+    "description": "Classic Phone — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 99,
+    "title": "Ultra Speaker #99",
+    "price": 66.54,
+    "description": "Ultra Speaker — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 100,
+    "title": "Modern Speaker #100",
+    "price": 106.72,
+    "description": "Modern Speaker — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 101,
+    "title": "Vintage Jacket #101",
+    "price": 228.25,
+    "description": "Vintage Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+  },
+  {
+    "id": 102,
+    "title": "Pro Earrings #102",
+    "price": 41.7,
+    "description": "Pro Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+  },
+  {
+    "id": 103,
+    "title": "Modern Blouse #103",
+    "price": 236.59,
+    "description": "Modern Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 104,
+    "title": "Sport Jeans #104",
+    "price": 102.87,
+    "description": "Sport Jeans — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 105,
+    "title": "Limited Blouse #105",
+    "price": 295.18,
+    "description": "Limited Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 106,
+    "title": "Ultra Speaker #106",
+    "price": 282.34,
+    "description": "Ultra Speaker — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 107,
+    "title": "Eco Shirt #107",
+    "price": 390.95,
+    "description": "Eco Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+  },
+  {
+    "id": 108,
+    "title": "Eco Dress #108",
+    "price": 255.28,
+    "description": "Eco Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 109,
+    "title": "Vintage T-Shirt #109",
+    "price": 73.1,
+    "description": "Vintage T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 110,
+    "title": "Premium Hoodie #110",
+    "price": 175.44,
+    "description": "Premium Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+  },
+  {
+    "id": 111,
+    "title": "Modern Earrings #111",
+    "price": 63.14,
+    "description": "Modern Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 112,
+    "title": "Modern T-Shirt #112",
+    "price": 75.12,
+    "description": "Modern T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 113,
+    "title": "Eco Router #113",
+    "price": 263.15,
+    "description": "Eco Router — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  },
+  {
+    "id": 114,
+    "title": "Eco Blouse #114",
+    "price": 339.69,
+    "description": "Eco Blouse — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+  },
+  {
+    "id": 115,
+    "title": "Modern Shirt #115",
+    "price": 11.95,
+    "description": "Modern Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 116,
+    "title": "Ultra Jacket #116",
+    "price": 222.04,
+    "description": "Ultra Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+  },
+  {
+    "id": 117,
+    "title": "Eco Shirt #117",
+    "price": 371.21,
+    "description": "Eco Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 118,
+    "title": "Limited Camera #118",
+    "price": 159.41,
+    "description": "Limited Camera — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+  },
+  {
+    "id": 119,
+    "title": "Premium Jacket #119",
+    "price": 65.15,
+    "description": "Premium Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+  },
+  {
+    "id": 120,
+    "title": "Ultra Hoodie #120",
+    "price": 288.48,
+    "description": "Ultra Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+  },
+  {
+    "id": 121,
+    "title": "Premium Dress #121",
+    "price": 60.78,
+    "description": "Premium Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+  },
+  {
+    "id": 122,
+    "title": "Premium Dress #122",
+    "price": 116.42,
+    "description": "Premium Dress — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+  },
+  {
+    "id": 123,
+    "title": "Eco Pendant #123",
+    "price": 127.41,
+    "description": "Eco Pendant — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  },
+  {
+    "id": 124,
+    "title": "Eco Shirt #124",
+    "price": 26.91,
+    "description": "Eco Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 125,
+    "title": "Sport T-Shirt #125",
+    "price": 294.73,
+    "description": "Sport T-Shirt — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 126,
+    "title": "Premium Coat #126",
+    "price": 141.92,
+    "description": "Premium Coat — high-quality women's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+  },
+  {
+    "id": 127,
+    "title": "Eco Hoodie #127",
+    "price": 33.63,
+    "description": "Eco Hoodie — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+  },
+  {
+    "id": 128,
+    "title": "Eco Camera #128",
+    "price": 289.22,
+    "description": "Eco Camera — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+  },
+  {
+    "id": 129,
+    "title": "Premium Tablet #129",
+    "price": 126.25,
+    "description": "Premium Tablet — high-quality electronics product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+  },
+  {
+    "id": 130,
+    "title": "Limited Earrings #130",
+    "price": 46.82,
+    "description": "Limited Earrings — high-quality jewelery product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  },
+  {
+    "id": 131,
+    "title": "Pro Jacket #131",
+    "price": 110.9,
+    "description": "Pro Jacket — high-quality men's clothing product crafted for everyday use. Comfortable, durable and stylish.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+  }
+]
