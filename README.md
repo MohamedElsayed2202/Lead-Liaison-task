@@ -1,75 +1,45 @@
-# React + TypeScript + Vite
+# Lead Liaison Task – Infinite Scroll Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates **three different implementations of infinite scrolling** along with **search** and **filtering** capabilities in a React application. The task was completed as requested and showcases clean.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Infinite Scroll Implementations
 
-## React Compiler
+### 1️⃣ IntersectionObserver (Built-in Browser API)
+- The smoothest and most optimized approach.
+- No manual scroll event calculations — fully reactive and efficient.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### 2️⃣ onScroll Event Listener
+- Uses manual scroll position calculations to detect when the user reaches the bottom of the page.
 
-Note: This will impact Vite dev & build performances.
+### 3️⃣ react-infinite-scroll-component
+- A library that simplifies infinite scroll handling and state management.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🔍 Search & Filtering
+- Supports **keyword search**.
+- Supports **category filtering**.
+- Query parameters handled using **React Router v6**.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 🛠️ Technologies Used
+- **React Query (`useInfiniteQuery`)**
+- **Axios**
+- **React Router v6**
+- **MSW (Mock Service Worker)**
+- **Tailwind CSS**
+- **React-Infinite-Scroll-Component**
+- **IntersectionObserver API**
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🔗 Live Demo
+[Lead Liaison Task](https://lead-liaison-task.onrender.com)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## ⏱️ Time to Complete
+The entire task — including infinite scroll implementations, search, filter handling, UI, and MSW setup — took approximately **2 days**.
