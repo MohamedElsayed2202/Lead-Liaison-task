@@ -8,7 +8,7 @@ const MainLayout = () => {
     <>
       <Header />
 
-      <main className="w-full h-[89.8vh] overflow-hidden p-8 flex flex-col gap-8 items-center bg-[#fdfbf8]">
+      <main className="w-full h-[calc(100vh-104px)] overflow-hidden p-8 flex flex-col gap-8 items-center bg-[#fdfbf8]">
         <div className="flex justify-center relative w-full">
           <div className="absolute left-1.5 block lg:hidden">
             <FixedFilter />
@@ -17,7 +17,7 @@ const MainLayout = () => {
             Explore all products
           </div>
         </div>
-        <div className="w-full h-[75.9vh] flex items-start justify-center text-[#07484a] text-xl font-medium">
+        <div className="w-full h-[calc(100vh-172px)] flex items-start justify-center text-[#07484a] text-xl font-medium">
           <div className="h-full lg:flex-1/5 hidden lg:block">
             <FilterRightSide />
           </div>
