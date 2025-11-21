@@ -28,7 +28,7 @@ const FixedFilter = () => {
     <>
       <button
         onClick={() => setIsOpen(true)}
-        className="text-[#07484a] text-2xl p-2 cursor-pointer"
+        className="text-[#07484a] text-2xl cursor-pointer"
       >
         <IoFilter />
       </button>
