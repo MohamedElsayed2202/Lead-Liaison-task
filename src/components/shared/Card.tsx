@@ -19,11 +19,11 @@ const Card = ({ product }: CardProps) => {
           {product.title}
         </h2>
         <p className="text-sm text-[#4b827a] mb-5">{product.description}</p>
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center gap-2">
           <span className="text-xl font-semibold text-[#07484a]">
             ${product.price}
           </span>
-          <span className="text-white bg-[#07484a] px-5 py-2.5 rounded-[50px] text-sm font-semibold capitalize">
+          <span className="text-white bg-[#07484a] px-5 py-2.5 rounded-[50px] text-sm font-semibold capitalize truncate ">
             {product.category}
           </span>
         </div>
